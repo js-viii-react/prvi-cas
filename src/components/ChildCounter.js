@@ -9,6 +9,7 @@ class ChildCounter extends Component {
   //     this.setState({ value: this.state.value + 1 });
   //   };
 
+  // test
   render() {
     return (
       <div style={{ margin: 15 }}>
